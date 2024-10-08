@@ -1269,7 +1269,9 @@
 				"C:/Users/harry/Documents/Solitary-Confinement/Solitary_Confinement/Content/Characters/Player/Animations/Animation_Assets/Game/Animation/Animation_Assets/Omnidirectional_Locomotion/RightStrafeWalking_UE.uasset",
 				"C:/Users/harry/Documents/Solitary-Confinement/Solitary_Confinement/Content/Characters/Player/Animations/Animation_Assets/Game/Animation/Animation_Assets/Omnidirectional_Locomotion/Roll_From_Fall.uasset",
 				"C:/Users/harry/Documents/Solitary-Confinement/Solitary_Confinement/Content/Characters/Player/Animations/Animation_Assets/Game/Animation/Animation_Assets/Omnidirectional_Locomotion/RunningBackward_UE.uasset",
-				"C:/Users/harry/Documents/Solitary-Confinement/Solitary_Confinement/Content/Characters/Player/Animations/Animation_Assets/Game/Animation/Animation_Assets/Omnidirectional_Locomotion/WalkingBackwards_UE.uasset"
+				"C:/Users/harry/Documents/Solitary-Confinement/Solitary_Confinement/Content/Characters/Player/Animations/Animation_Assets/Game/Animation/Animation_Assets/Omnidirectional_Locomotion/WalkingBackwards_UE.uasset",
+				"C:/Users/harry/Documents/Solitary-Confinement/Solitary_Confinement/Content/Characters/Player/Components/BPC_Stamina.uasset",
+				"C:/Users/harry/Documents/Solitary-Confinement/Solitary_Confinement/Content/Characters/Player/Input/Actions/IA_Sprint.uasset"
 			]
 		}
 	]
